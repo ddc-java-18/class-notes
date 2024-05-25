@@ -1,6 +1,6 @@
 # Java Deep Dive: Day 2
 
-Class Date: 20-05-2024
+Class Date: 21-05-2024
 
 ## Topics Covered
 
